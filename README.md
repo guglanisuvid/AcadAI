@@ -26,9 +26,9 @@ AcadAI is built using modern technologies to ensure a seamless learning experien
 
 ### Deployment & Version Control
 
-- **Frontend:** [Vercel](https://acadai-client.vercel.app)
-- **Backend:** [Render](https://acadai-server.onrender.com)
-- **Version Control:** [Github](https://github.com/guglanisuvid/NetflixGPT.git)
+- **Frontend:** [Vercel](https://vercel.com/)
+- **Backend:** [Render](https://render.com/)
+- **Version Control:** [Github](https://github.com/)
 
 These technologies together make **AcadAI** a powerful and efficient e-learning platform! 🚀
 
